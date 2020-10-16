@@ -1,0 +1,1 @@
+The Electron system ROMs are copyright Pace Micro Technology PLC, http://www.pace.co.uk. They do not fall under the GPL.
